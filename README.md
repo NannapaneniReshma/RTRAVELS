@@ -1,4 +1,4 @@
-# FRTTRVELS-BOT ✈️🧳:
+ # RTRVELS-BOT:
 
 This is project mainly to people who want knowing about the new places 
 
@@ -21,16 +21,14 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 4.Globally distributed static content, putting content closer to your users.
 
-5.Free SSL certificates, which are automatically renewed.
 
-6.Custom domains to provide branded customizations to your app.
 
-Project Link: https://delightful-sea-0c2be1810.1.azurestaticapps.net/
+Project Link: 
 
 # Sample images of the project :
 
-![Capture11](https://user-images.githubusercontent.com/96176668/171934310-f888679e-ac33-4ea5-89bb-c24f8065d2c9.PNG)
-![Capture22222222](https://user-images.githubusercontent.com/96176668/171934320-126f2bc7-69c3-431f-97dc-3fd2b2b91c71.PNG)
-![Screenshot (131)](https://user-images.githubusercontent.com/96176668/171934368-487b359e-64c1-46f1-af2b-c7fe120ddd41.png)
-![Screenshot (132)](https://user-images.githubusercontent.com/96176668/171934382-f086e243-8a15-480d-b08b-9b96462fb33b.png)
+![Screenshot (213)](https://user-images.githubusercontent.com/90505712/175779634-b99f30c9-2f18-4465-86cb-4ea77e41c762.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/90505712/175779636-dd09b01f-8c09-4f33-ba3b-244050d2835e.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/90505712/175779638-af0976ca-324a-429c-b101-f15d3a7dee78.png)
+
 
