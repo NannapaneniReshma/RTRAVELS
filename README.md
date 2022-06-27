@@ -23,7 +23,7 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 
 
-Project Link: 
+# Project Link: https://polite-ocean-05ea1bb10.1.azurestaticapps.net
 
 # Sample images of the project :
 
