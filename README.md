@@ -5,7 +5,9 @@ This is project mainly to people who want knowing about the new places
 
 # Azure services used in this project
 
-1)QnA maker 2)Static webapps 3)Azure Bot Service
+1)QnA maker 
+2)Static webapps 
+3)Azure Bot Service
 
 For creating Question and Answer pair, I have used QnAMaker. I integreted QnAMAker with Web App bot. Then for hosting I have used Static Web App Service. Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository.
 
